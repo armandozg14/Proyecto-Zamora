@@ -2,7 +2,7 @@
 
 **Contenido**
 
-Para el desarrollo de este proyecto, se utilizaron las herramientas de Unity y Visual Studio Code. En base a lo solicitado, el shader cuenta con
+Para el desarrollo de este proyecto, se utilizaron las herramientas de Unity y Visual Studio Code con HLSL. En base a lo solicitado, el shader cuenta con
 
 - Un color albedo para la iluminación.
 - Un mapa de textura y un mapa de normales.
@@ -10,7 +10,7 @@ Para el desarrollo de este proyecto, se utilizaron las herramientas de Unity y V
 - Está codificado con Lambert.
 - Cuenta Phong, Rim y Ramp Texture con Banded.
 
-**Contenido**
+**Desarrollo**
 
 - Para este proyecto se tomaron de referencia los trabajos realizados en el transcurso del primer parcial, aplicando los conocimientos adquiridos dentro del código del proyecto y se descargó un modelo 3D del sitio www.assetstore.unity.com, de donde se decidió trabajar con el modelo llamado Angry Log.
 
