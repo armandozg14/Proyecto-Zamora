@@ -12,7 +12,7 @@ Para el desarrollo de este proyecto, se utilizaron las herramientas de Unity y V
 
 **Desarrollo**
 
-- Para este proyecto se tomaron de referencia los trabajos realizados en el transcurso del primer parcial, aplicando los conocimientos adquiridos dentro del código del proyecto y se descargó un modelo 3D del sitio www.assetstore.unity.com, de donde se decidió trabajar con el modelo llamado Angry Log.
+- Para este proyecto se tomaron de referencia los trabajos realizados en el transcurso del primer parcial, aplicando los conocimientos adquiridos dentro del código del proyecto y se descargó un modelo 3D del sitio https://assetstore.unity.com, de donde se decidió trabajar con el modelo llamado Angry Log.
 
 - Se manejó un Shader en Unlit con un modelo básico de luz Lambert y una estructura de código que incluye nombre, las propiedades, el subshader, tags y cgprogram, en los cuales se codifica lo necesario para lograr el efecto deseado. Además, se utiliza el pragma para mostrar el sombreador de superficie.
 - Se trabaja con efectos como el Phong para para crear un efecto de brillo incluyendo dentro de él características como el SpecularColor que es el color de la luz, el SpecularPower que controla la intensidad de la luz, el SpecularGloss que mide la extensión del brillo y el GlossSteps que permite agrandar los pasos de cada sección. También se codifica un Normal Map para dar textura tipo relieve al modelo junto con el Normal Strenght para poder configurar la dureza de la textura.
